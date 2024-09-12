@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en"></html>
+<head>
+    <title> div id class practice</title>
+</head>
+<link rel="stylesheet" href="./style.css">
+ <body>
+    <div class="chicken tacos" id="chicken tacos">
+        <h2> chicken tacos:</h2>
+<ul> 
+
+    <li>chicken tacos are the best</li>
+    <li>i love chicken tacos</li>
+    <li> chicken tacos are the best</li>
+</ul>
+</body>
